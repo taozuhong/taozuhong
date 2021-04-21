@@ -3,8 +3,8 @@
 
 
 ### About me / 关于我
-- 🔭 I’m currently working on [Kangaroo](https://github.com/dbkangaroo/kangaroo)<br/>
-  🔭 我正在开发的项目是： [袋鼠数据库工具](https://gitee.com/dbkangaroo/kangaroo)
+- 🔭 I’m currently working on :earth_asia:[Kangaroo](https://github.com/dbkangaroo/kangaroo) :earth_asia:[Official website](https://www.datatable.online/)<br/>
+  🔭 我正在开发的项目是： :earth_asia:[袋鼠数据库工具](https://gitee.com/dbkangaroo/kangaroo) :earth_asia:[项目官网网站](https://www.datatable.online/zh/)
   
 - 🌱 I’m currently learningVala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, C#/MAUI Mobile development<br/>
   🌱 我正在学习的技术是： Vala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, C#/MAUI, 移动端开发技术
