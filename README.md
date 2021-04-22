@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with Linux deployment<br/>
   🤔 我正在寻求 Linux 下打包方面的帮助
   
-- 💬 Ask me about Kangaroo, any question is welcome<br/>
+- 💬 Ask me about Kangaroo, any questions are welcome<br/>
   💬 您可以问我关于 袋鼠数据库工具方面的任何问题
   
 - 📫 How to reach me via github issue at kangaroo, due to reach it everyday.<br/>
