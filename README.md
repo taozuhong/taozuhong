@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on :earth_asia:[Kangaroo](https://github.com/dbkangaroo/kangaroo) :earth_asia:[Official website](https://www.datatable.online/)<br/>
   🔭 我正在开发的项目是： :earth_asia:[袋鼠数据库工具](https://gitee.com/dbkangaroo/kangaroo) :earth_asia:[项目官网网站](https://www.datatable.online/zh/)
   
-- 🌱 I’m currently learningVala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, Mobile development<br/>
-  🌱 我正在学习的技术是： Vala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, 移动端开发技术
+- 🌱 I’m currently learning Vala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, Mobile development<br/>
+  🌱 我正在学习的技术是 Vala/Gtk, Javascript/Vue/Nodejs, PHP/Laravel, 移动端开发技术
   
 - 👯 I’m looking to collaborate on mobile development and database<br/>
   👯 我正在寻找关于 移动开发和数据库方面的合作机会
