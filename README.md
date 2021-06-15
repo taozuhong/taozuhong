@@ -18,7 +18,7 @@
 - 💬 Ask me about Kangaroo, any questions are welcome<br/>
   💬 您可以问我关于 袋鼠数据库工具方面的任何问题
   
-- 📫 Reach me via github issue at kangaroo, due to I access it everyday.<br/>
+- 📫 Touch me via github issue at kangaroo, due to I access it everyday.<br/>
   📫 联系我：通过项目 issue 的方式联系我， 因为我每天都会去踩踩
 
 
