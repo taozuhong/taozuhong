@@ -1,8 +1,9 @@
 ### Hi guys / 嗨，您好 👋
 [![Taozuhong's github stats](https://github-readme-stats.vercel.app/api?username=taozuhong&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/taozuhong)
 
+### About me / 关于我 👋
+<img align="right" top='60' alt="GIF" src="https://s3.bmp.ovh/imgs/2023/03/17/2311d950a4bba6fd.gif" width="480"/>
 
-### About me / 关于我
 - 🔭 I’m currently working on :earth_asia:[Kangaroo](https://github.com/dbkangaroo/kangaroo) :earth_asia:[Official website](https://www.datatable.online/?from=gprofile)<br/>
   🔭 我正在开发的项目是： :earth_asia:[袋鼠数据库工具](https://gitee.com/dbkangaroo/kangaroo) :earth_asia:[项目官网网站](https://www.datatable.online/zh/?from=gprofile)
   
@@ -20,5 +21,3 @@
   
 - 📫 Touch me via github issue at kangaroo, due to I access it everyday.<br/>
   📫 联系我：通过项目 issue 的方式联系我， 因为我每天都会去踩踩
-
-
